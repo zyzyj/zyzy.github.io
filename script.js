@@ -1,7 +1,7 @@
 // script.js
 document.addEventListener('DOMContentLoaded', function() {
     var appList = [{
-            name: '传家宝',
+            name: 'JMComic2',
             icon: '/img/jm.png',
             downloadLink: 'https://i-450.wwentua.com:446/07091100186151294bb/2024/06/14/d3bcd9dcf777799424f681752519f853.apk?st=CQM9dxlugW9XwTN3UEgNng&e=1720497470&b=Vk4OQ1QXUzlUbFdoBDcANlNZAWwDLFRlB3pdYFN6BWYIKlsw&fi=186151294&pid=115-231-220-36&up=2&mp=0&co=0',
             description: '使用后会进入贤者模式！'
