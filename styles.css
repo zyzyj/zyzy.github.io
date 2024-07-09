@@ -12,6 +12,39 @@ header {
     text-align: center;
 }
 
+nav {
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    /* 这将使子元素均匀分布 */
+    padding: 14px 20px;
+    /* 添加一些内边距 */
+}
+
+.nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    display: inline;
+    /* 使列表项水平显示 */
+}
+
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    /* 添加一些内边距 */
+    border-radius: 4px;
+}
+
+.nav-links li a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
 h1 {
     margin: 0;
 }
