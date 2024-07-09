@@ -1,12 +1,12 @@
 // script.js
 document.addEventListener('DOMContentLoaded', function() {
     var appList = [
-<!--{
+/*{
             name: 'JMComic2',
             icon: '/img/jm.png',
             downloadLink: 'https://i-450.wwentua.com:446/07091100186151294bb/2024/06/14/d3bcd9dcf777799424f681752519f853.apk?st=CQM9dxlugW9XwTN3UEgNng&e=1720497470&b=Vk4OQ1QXUzlUbFdoBDcANlNZAWwDLFRlB3pdYFN6BWYIKlsw&fi=186151294&pid=115-231-220-36&up=2&mp=0&co=0',
             description: '使用后会进入贤者模式！'
-        },-->
+        },*/
 
         {
            name: 'Miru',
@@ -35,12 +35,12 @@ document.addEventListener('DOMContentLoaded', function() {
         description:'破解版，需配合魔法使用'
         },
 
-        <!--{
+        /*{
         name:'V2ray VPN',
         icon:'/img/vn.jpg',
         downloadLink:'https://i-240.wwentua.com:446/07091100189788482bb/2024/07/09/3e62ca9155f25564dd9c3c6e0424bc96.apk?st=VIdBCFfnRy0z0w-Zv7kLwQ&e=1720498161&b=VlJdbwFzBWFZdQN1AwwCMAV_bCWZRfgI2CHVfMwdwUTg_c&fi=189788482&pid=115-231-220-36&up=2&mp=0&co=0',
         description:'魔法🔮'
-        },-->
+        },*/
         
         
         // ...其他应用
